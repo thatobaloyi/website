@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spectral/v11/rnCt-xNNww_2s0amA9M8onrmSQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spectral/v11/rnCu-xNNww_2s0amA9M8qsHDWfSFWA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spectral/v11/rnCs-xNNww_2s0amA9uSsG3BafM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spectral/v11/rnCs-xNNww_2s0amA9uCt23BafM.ttf) format('truetype');
+}
