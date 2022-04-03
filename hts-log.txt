@@ -1,0 +1,32 @@
+HTTrack3.49-2 launched on Sun, 03 Apr 2022 22:54:08 at https://sites.google.com/view/buy-download-beats/home?read_current=1 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://sites.google.com/view/buy-download-beats/home?read_current=1 -O "/home/waygee/websites/webs" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:54:39	Error: 	"Bad Request" (400) at link https://sites.google.com/view/buy-download-beats/home?read_current (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:54:41	Error: 	"Not Found" (404) at link https://sites.google.com/view/buy-download-beats/"https://player.beatstars.com/?storeId=124139%22 (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:54:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://lh6.googleusercontent.com/O8M1g1VKgmnCXYwkx4qay5w7PHQqZR9BQdjO3sc64-6Qao8X7K0HpqefSTS9i8V5gdynCMhaApm7bwzQsbxyD3o=w16383 (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:54:43	Warning: 	Retry after error 500 () at link https://lh6.googleusercontent.com/O8M1g1VKgmnCXYwkx4qay5w7PHQqZR9BQdjO3sc64-6Qao8X7K0HpqefSTS9i8V5gdynCMhaApm7bwzQsbxyD3o=w16383 (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:54:43	Error: 	"" (500) after 2 retries at link https://lh6.googleusercontent.com/O8M1g1VKgmnCXYwkx4qay5w7PHQqZR9BQdjO3sc64-6Qao8X7K0HpqefSTS9i8V5gdynCMhaApm7bwzQsbxyD3o=w16383 (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:55:53	Error: 	"" (400) at link https://sites.google.com/view/buy-download-beats/home?read_current (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:55:53	Warning: 	HTML file (99848 bytes) retransferred due to lack of cache: https://sites.google.com/view/buy-download-beats/home
+22:56:02	Warning: 	Retry after error -4 (Interrupted transfer) at link https://sites.google.com/view/buy-download-beats/home (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:56:02	Warning: 	HTML file (62904 bytes) retransferred due to lack of cache: https://sites.google.com/view/buy-download-beats/contact
+22:56:08	Warning: 	Retry after error -4 (Interrupted transfer) at link https://sites.google.com/view/buy-download-beats/contact (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:56:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css?family=Spectral%3Ai%2Cbi%2C700%2C300&display=swap
+22:56:10	Warning: 	HTML file (99848 bytes) retransferred due to lack of cache: https://sites.google.com/view/buy-download-beats/home
+22:56:10	Warning: 	HTML file (62904 bytes) retransferred due to lack of cache: https://sites.google.com/view/buy-download-beats/contact
+22:56:16	Warning: 	Retry after error 500 () at link https://lh6.googleusercontent.com/O8M1g1VKgmnCXYwkx4qay5w7PHQqZR9BQdjO3sc64-6Qao8X7K0HpqefSTS9i8V5gdynCMhaApm7bwzQsbxyD3o=w16383 (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:56:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://sites.google.com/view/buy-download-beats/home (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:56:16	Warning: 	HTML file (99848 bytes) retransferred due to lack of cache: https://sites.google.com/view/buy-download-beats/home
+22:56:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://sites.google.com/view/buy-download-beats/contact (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:56:16	Warning: 	HTML file (62904 bytes) retransferred due to lack of cache: https://sites.google.com/view/buy-download-beats/contact
+22:56:22	Error: 	"" (500) after 2 retries at link https://lh6.googleusercontent.com/O8M1g1VKgmnCXYwkx4qay5w7PHQqZR9BQdjO3sc64-6Qao8X7K0HpqefSTS9i8V5gdynCMhaApm7bwzQsbxyD3o=w16383 (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:56:22	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://sites.google.com/view/buy-download-beats/home (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+22:56:22	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://sites.google.com/view/buy-download-beats/contact (from https://sites.google.com/view/buy-download-beats/home?read_current=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 14 seconds : 38 links scanned, 27 files written (10599702 bytes overall) [6837539 bytes received at 51026 bytes/sec], 504113 bytes transferred using HTTP compression in 12 files, ratio 17%
+(7 errors, 14 warnings, 0 messages)
